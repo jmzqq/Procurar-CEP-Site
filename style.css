@@ -1,0 +1,9 @@
+#main-bg-img {
+    background-image: url(images/rome.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#texto {
+    color: rgb(180, 177, 177);
+}
